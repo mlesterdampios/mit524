@@ -5,7 +5,10 @@ In partial fulfillment of the requirements for the subject MIT524 on AMA Univers
 Simple E-commerce System. Built from pure php with no frameworks.
 
 # Deploying
-Just import the sql file to the database to seed data. Then edit /functions/config.php and /admin_area/functions/config.php
+Import the sql file to the database to seed data. Then edit /functions/config.php and /admin_area/functions/config.php
+
+# Admin
+Browse to localhost/admin_area and use admin:123
 
 # Credits
 The template used for front-end are made by [Colorlib](https://colorlib.com) and is licensed under CC by 3.0.
